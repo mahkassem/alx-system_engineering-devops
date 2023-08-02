@@ -19,3 +19,7 @@ A script that displays current directory contents in a long format.
 ## 4-listmorefiles
 
 A script that displays current directory contents, including hidden files (starting with .). Use the long format.
+
+## 5-listfilesdigitonly
+
+A script that displays current directory contents. Long format, numbers only, hidden files (starting with .).
