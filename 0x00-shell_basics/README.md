@@ -23,3 +23,7 @@ A script that displays current directory contents, including hidden files (start
 ## 5-listfilesdigitonly
 
 A script that displays current directory contents. Long format, numbers only, hidden files (starting with .).
+
+## 6-firstdirectory
+
+A script that creates a directory named my_first_directory in the /tmp/ directory.
