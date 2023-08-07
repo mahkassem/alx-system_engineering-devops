@@ -1,3 +1,2 @@
 #!/bin/bash
-# make the following script add aditional new line at the end
 echo `cat $1 | cut -c1 | tr -d '\n'`
