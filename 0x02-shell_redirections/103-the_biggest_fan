@@ -1,2 +1,3 @@
 #!/bin/bash
-cut -f1 | sort | uniq -c | sort -nr | head -n11
+awk '{print $1}' "$1" | sort | uniq -c | sort -rn | head -n 11
+
